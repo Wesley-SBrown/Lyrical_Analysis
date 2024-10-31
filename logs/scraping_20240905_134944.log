@@ -1,0 +1,4 @@
+2024-09-05 13:49:54,665 - scripts.scrape_discography - INFO - Generated URL: https://www.azlyrics.com/a/alltimelow.html
+2024-09-05 13:49:55,362 - scripts.scrape_discography - INFO - Successfully opened URL: https://www.azlyrics.com/a/alltimelow.html
+2024-09-05 13:49:55,390 - scripts.scrape_discography - INFO - Parsed albums: ['"The Three Words To Remember In Dealing With The End"(2004)', '"The Party Scene"(2005)', '"Put Up Or Shut Up"(2006)', '"So Wrong, It\'s Right"(2007)', '"Nothing Personal"(2009)', '"Dirty Work"(2011)', '"Don\'t Panic"(2012)', '"Future Hearts"(2015)', '"Last Young Renegade"(2017)', '"Wake Up, Sunshine"(2020)', '"Tell Me I\'m Alive"(2023)', '']
+2024-09-05 13:49:55,517 - scripts.scrape_discography - INFO - Successfully saved discography

@@ -1,0 +1,3 @@
+2024-09-22 15:32:13,122 - scripts.scrape_discography - INFO - Generated URL: https://www.azlyrics.com/a/alltimelow.html
+2024-09-22 15:32:13,826 - scripts.scrape_discography - INFO - Successfully opened URL: https://www.azlyrics.com/a/alltimelow.html
+2024-09-22 15:32:13,853 - root - ERROR - An error occurred: list indices must be integers or slices, not dict

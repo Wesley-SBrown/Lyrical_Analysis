@@ -1,0 +1,95 @@
+2024-09-21 16:23:30,084 - scripts.scrape_lyrics - INFO - Generated URL: https://www.azlyrics.com/lyrics/alltimelow/jaseyrae.html
+2024-09-21 16:23:30,840 - scripts.scrape_lyrics - INFO - Successfully opened URL: https://www.azlyrics.com/lyrics/alltimelow/jaseyrae.html
+2024-09-21 16:23:30,862 - scripts.scrape_lyrics - ERROR - Error parsing div at index 0: 'NavigableString' object has no attribute 'find_all'
+2024-09-21 16:23:30,862 - scripts.scrape_lyrics - ERROR - Error parsing div at index 2: 'NavigableString' object has no attribute 'find_all'
+2024-09-21 16:23:30,862 - scripts.scrape_lyrics - ERROR - Error parsing div at index 4: 'NavigableString' object has no attribute 'find_all'
+2024-09-21 16:23:30,863 - scripts.scrape_lyrics - ERROR - Error parsing div at index 6: 'NavigableString' object has no attribute 'find_all'
+2024-09-21 16:23:30,863 - scripts.scrape_lyrics - ERROR - Error parsing div at index 8: 'NavigableString' object has no attribute 'find_all'
+2024-09-21 16:23:30,863 - scripts.scrape_lyrics - ERROR - Error parsing div at index 11: 'NavigableString' object has no attribute 'find_all'
+2024-09-21 16:23:30,863 - scripts.scrape_lyrics - ERROR - Error parsing div at index 13: 'NavigableString' object has no attribute 'find_all'
+2024-09-21 16:23:30,863 - scripts.scrape_lyrics - ERROR - Error parsing div at index 15: 'NavigableString' object has no attribute 'find_all'
+2024-09-21 16:23:30,863 - scripts.scrape_lyrics - ERROR - Error parsing div at index 18: 'NavigableString' object has no attribute 'find_all'
+2024-09-21 16:23:30,863 - scripts.scrape_lyrics - ERROR - Error parsing div at index 19: 'Comment' object has no attribute 'find_all'
+2024-09-21 16:23:30,863 - scripts.scrape_lyrics - ERROR - Error parsing div at index 20: 'NavigableString' object has no attribute 'find_all'
+2024-09-21 16:23:30,863 - scripts.scrape_lyrics - ERROR - Error parsing div at index 22: 'NavigableString' object has no attribute 'find_all'
+2024-09-21 16:23:30,863 - scripts.scrape_lyrics - ERROR - Error parsing div at index 24: 'NavigableString' object has no attribute 'find_all'
+2024-09-21 16:23:30,863 - scripts.scrape_lyrics - ERROR - Error parsing div at index 26: 'NavigableString' object has no attribute 'find_all'
+2024-09-21 16:23:30,863 - scripts.scrape_lyrics - ERROR - Error parsing div at index 28: 'NavigableString' object has no attribute 'find_all'
+2024-09-21 16:23:30,863 - scripts.scrape_lyrics - ERROR - Error parsing div at index 30: 'NavigableString' object has no attribute 'find_all'
+2024-09-21 16:23:30,863 - scripts.scrape_lyrics - ERROR - Error parsing div at index 32: 'NavigableString' object has no attribute 'find_all'
+2024-09-21 16:23:30,863 - scripts.scrape_lyrics - ERROR - Error parsing div at index 33: 'Comment' object has no attribute 'find_all'
+2024-09-21 16:23:30,863 - scripts.scrape_lyrics - ERROR - Error parsing div at index 34: 'NavigableString' object has no attribute 'find_all'
+2024-09-21 16:23:30,863 - scripts.scrape_lyrics - ERROR - Error parsing div at index 36: 'NavigableString' object has no attribute 'find_all'
+2024-09-21 16:23:30,863 - scripts.scrape_lyrics - ERROR - Error parsing div at index 37: 'Comment' object has no attribute 'find_all'
+2024-09-21 16:23:30,863 - scripts.scrape_lyrics - ERROR - Error parsing div at index 38: 'NavigableString' object has no attribute 'find_all'
+2024-09-21 16:23:30,864 - scripts.scrape_lyrics - ERROR - Error parsing div at index 40: 'NavigableString' object has no attribute 'find_all'
+2024-09-21 16:23:30,864 - scripts.scrape_lyrics - ERROR - Error parsing div at index 41: 'Comment' object has no attribute 'find_all'
+2024-09-21 16:23:30,864 - scripts.scrape_lyrics - ERROR - Error parsing div at index 42: 'NavigableString' object has no attribute 'find_all'
+2024-09-21 16:23:30,864 - scripts.scrape_lyrics - ERROR - Error parsing div at index 44: 'NavigableString' object has no attribute 'find_all'
+2024-09-21 16:23:30,864 - scripts.scrape_lyrics - ERROR - Error parsing div at index 45: 'Comment' object has no attribute 'find_all'
+2024-09-21 16:23:30,864 - scripts.scrape_lyrics - ERROR - Error parsing div at index 46: 'NavigableString' object has no attribute 'find_all'
+2024-09-21 16:23:30,864 - scripts.scrape_lyrics - ERROR - Error parsing div at index 48: 'NavigableString' object has no attribute 'find_all'
+2024-09-21 16:23:30,864 - scripts.scrape_lyrics - ERROR - Error parsing div at index 49: 'Comment' object has no attribute 'find_all'
+2024-09-21 16:23:30,864 - scripts.scrape_lyrics - ERROR - Error parsing div at index 50: 'NavigableString' object has no attribute 'find_all'
+2024-09-21 16:23:30,864 - scripts.scrape_lyrics - ERROR - Error parsing div at index 52: 'NavigableString' object has no attribute 'find_all'
+2024-09-21 16:23:30,864 - scripts.scrape_lyrics - ERROR - Error parsing div at index 54: 'NavigableString' object has no attribute 'find_all'
+2024-09-21 16:23:30,864 - scripts.scrape_lyrics - INFO - Lyrics successfully parsed
+2024-09-21 16:23:30,878 - scripts.scrape_lyrics - INFO - Genre found: pop
+2024-09-21 16:23:30,890 - scripts.scrape_lyrics - INFO - Album found: EP:"Put Up Or Shut Up"(2006)
+2024-09-21 16:23:30,904 - scripts.scrape_lyrics - INFO - Writer(s) found: Alexander William Gaskarth, Robert Ryan Dawson, Jack Bassam Barakat, Zachary Steven Merrick
+2024-09-21 16:23:30,904 - scripts.scrape_lyrics - INFO - Lyrics: 
+
+Lights out
+I still hear the rain
+These images that fill my head
+Now keep my fingers from making mistakes
+Tell my voice what it takes
+To speak up
+Speak up
+And keep my conscience clean when I wake
+
+Don't make this easy
+I want you to mean it
+Jasey. (say you'll mean it)
+You're dressed to kill
+I'm calling you out (don't waste your time on me)
+
+Now there's an aching in my back
+A stabbing pain that says I lack
+The common sense and confidence
+To bring an end to promises
+That I make in times of desperate conversation
+Hoping my night could be better than theirs in the end
+Just say when
+
+Don't make this easy
+I want you to mean it
+Jasey. (say you'll mean it)
+You're dressed to kill
+I'm calling you out, (don't waste your time on me)
+
+I've never told a lie
+And that makes me a liar
+I've never made a bet
+But we gamble with desire
+I've never lit a match
+With intent to start a fire
+But recently the flames
+Are getting out of control
+Call me a name
+Kill me with words
+Forget about me
+It's what I deserve
+I was your chance
+To get out of this town
+But I ditched the car
+And left you to
+
+Wait outside
+I hope the air will serve to remind you
+That my heart is as cold as the clouds of your breath
+And my words are as timed as the beating in my chest
+
+2024-09-21 16:23:30,904 - scripts.scrape_lyrics - INFO - Genre: pop
+2024-09-21 16:23:30,904 - scripts.scrape_lyrics - INFO - Album: EP:"Put Up Or Shut Up"(2006)
+2024-09-21 16:23:30,904 - scripts.scrape_lyrics - INFO - Writers: Alexander William Gaskarth, Robert Ryan Dawson, Jack Bassam Barakat, Zachary Steven Merrick

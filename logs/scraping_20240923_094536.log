@@ -1,0 +1,726 @@
+2024-09-23 09:45:36,808 - scripts.upload_to_mongodb - INFO - Adding top all albums from All TIme Low's discography.
+2024-09-23 09:45:36,833 - scripts.scrape_lyrics - INFO - Parsing artist All TIme Low
+2024-09-23 09:45:36,833 - scripts.scrape_lyrics - INFO - Paring song: Hit The Lights (Tribute To A Night, I'll Never Forget)
+2024-09-23 09:45:36,833 - scripts.scrape_lyrics - INFO - Generated URL: https://www.azlyrics.com/lyrics/alltimelow/hitthelightstributetoanightillneverforget.html
+2024-09-23 09:45:37,520 - scripts.scrape_lyrics - INFO - Successfully opened URL: https://www.azlyrics.com/lyrics/alltimelow/hitthelightstributetoanightillneverforget.html
+2024-09-23 09:45:37,531 - scripts.scrape_lyrics - ERROR - Error parsing div at index 0: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:37,532 - scripts.scrape_lyrics - ERROR - Error parsing div at index 2: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:37,532 - scripts.scrape_lyrics - ERROR - Error parsing div at index 4: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:37,532 - scripts.scrape_lyrics - ERROR - Error parsing div at index 6: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:37,532 - scripts.scrape_lyrics - ERROR - Error parsing div at index 8: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:37,532 - scripts.scrape_lyrics - ERROR - Error parsing div at index 11: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:37,532 - scripts.scrape_lyrics - ERROR - Error parsing div at index 13: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:37,532 - scripts.scrape_lyrics - ERROR - Error parsing div at index 15: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:37,532 - scripts.scrape_lyrics - ERROR - Error parsing div at index 18: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:37,532 - scripts.scrape_lyrics - ERROR - Error parsing div at index 19: 'Comment' object has no attribute 'find_all'
+2024-09-23 09:45:37,532 - scripts.scrape_lyrics - ERROR - Error parsing div at index 20: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:37,532 - scripts.scrape_lyrics - ERROR - Error parsing div at index 22: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:37,532 - scripts.scrape_lyrics - ERROR - Error parsing div at index 24: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:37,532 - scripts.scrape_lyrics - ERROR - Error parsing div at index 26: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:37,532 - scripts.scrape_lyrics - ERROR - Error parsing div at index 28: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:37,532 - scripts.scrape_lyrics - ERROR - Error parsing div at index 30: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:37,532 - scripts.scrape_lyrics - ERROR - Error parsing div at index 32: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:37,533 - scripts.scrape_lyrics - ERROR - Error parsing div at index 33: 'Comment' object has no attribute 'find_all'
+2024-09-23 09:45:37,533 - scripts.scrape_lyrics - ERROR - Error parsing div at index 34: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:37,533 - scripts.scrape_lyrics - ERROR - Error parsing div at index 36: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:37,533 - scripts.scrape_lyrics - ERROR - Error parsing div at index 37: 'Comment' object has no attribute 'find_all'
+2024-09-23 09:45:37,533 - scripts.scrape_lyrics - ERROR - Error parsing div at index 38: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:37,533 - scripts.scrape_lyrics - ERROR - Error parsing div at index 40: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:37,533 - scripts.scrape_lyrics - ERROR - Error parsing div at index 41: 'Comment' object has no attribute 'find_all'
+2024-09-23 09:45:37,533 - scripts.scrape_lyrics - ERROR - Error parsing div at index 42: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:37,533 - scripts.scrape_lyrics - ERROR - Error parsing div at index 44: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:37,533 - scripts.scrape_lyrics - ERROR - Error parsing div at index 45: 'Comment' object has no attribute 'find_all'
+2024-09-23 09:45:37,533 - scripts.scrape_lyrics - ERROR - Error parsing div at index 46: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:37,533 - scripts.scrape_lyrics - ERROR - Error parsing div at index 48: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:37,533 - scripts.scrape_lyrics - ERROR - Error parsing div at index 49: 'Comment' object has no attribute 'find_all'
+2024-09-23 09:45:37,533 - scripts.scrape_lyrics - ERROR - Error parsing div at index 50: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:37,533 - scripts.scrape_lyrics - ERROR - Error parsing div at index 52: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:37,533 - scripts.scrape_lyrics - ERROR - Error parsing div at index 54: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:37,533 - scripts.scrape_lyrics - INFO - Lyrics successfully parsed
+2024-09-23 09:45:37,543 - scripts.scrape_lyrics - INFO - Genre found: pop
+2024-09-23 09:45:37,554 - scripts.scrape_lyrics - INFO - Album found: EP:"The Three Words To Remember In Dealing With The End"(2004)
+2024-09-23 09:45:37,563 - scripts.scrape_lyrics - WARNING - Writers not found
+2024-09-23 09:45:37,563 - scripts.scrape_lyrics - INFO - Lyrics: 
+
+I'm sitting here wishing for something that's missing
+I'm waiting for you to tell me
+that time keeps on passing
+I'm hoping, I'm asking
+to stand by your side
+at least for tonight
+
+let's follow through with this reckless dream
+that's tearing me up inside
+and all the time we've been so innocent
+
+So don't you go I've got you where I want you
+and I'm never letting go
+hit the lights we'll be all right
+tonight our dreams come true
+
+now lets take our chances
+please give me your answer
+it's all up to you so please take me away
+we've waited for so long
+I can't say it feels wrong to close my eyes
+when all I see is you
+
+let's follow through with this reckless dream
+it's tearing me up inside
+and all the time we'll make it seem
+like we have nothing to hide nothing to hide
+
+So don't you go I've got you where I want you
+and I'm never letting go
+hit the lights we'll be all right
+tonight our dreams come true [x3]
+
+2024-09-23 09:45:37,563 - scripts.scrape_lyrics - INFO - Genre: pop
+2024-09-23 09:45:37,563 - scripts.scrape_lyrics - INFO - Album: EP:"The Three Words To Remember In Dealing With The End"(2004)
+2024-09-23 09:45:37,563 - scripts.scrape_lyrics - INFO - Writers: Writers not found
+2024-09-23 09:45:37,567 - scripts.scrape_lyrics - INFO - Parsing artist All TIme Low
+2024-09-23 09:45:37,567 - scripts.scrape_lyrics - INFO - Paring song: The Next Best Thing
+2024-09-23 09:45:37,567 - scripts.scrape_lyrics - INFO - Generated URL: https://www.azlyrics.com/lyrics/alltimelow/thenextbestthing.html
+2024-09-23 09:45:38,183 - scripts.scrape_lyrics - INFO - Successfully opened URL: https://www.azlyrics.com/lyrics/alltimelow/thenextbestthing.html
+2024-09-23 09:45:38,196 - scripts.scrape_lyrics - ERROR - Error parsing div at index 0: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:38,196 - scripts.scrape_lyrics - ERROR - Error parsing div at index 2: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:38,196 - scripts.scrape_lyrics - ERROR - Error parsing div at index 4: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:38,196 - scripts.scrape_lyrics - ERROR - Error parsing div at index 6: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:38,196 - scripts.scrape_lyrics - ERROR - Error parsing div at index 8: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:38,197 - scripts.scrape_lyrics - ERROR - Error parsing div at index 11: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:38,197 - scripts.scrape_lyrics - ERROR - Error parsing div at index 13: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:38,197 - scripts.scrape_lyrics - ERROR - Error parsing div at index 15: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:38,197 - scripts.scrape_lyrics - ERROR - Error parsing div at index 18: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:38,197 - scripts.scrape_lyrics - ERROR - Error parsing div at index 19: 'Comment' object has no attribute 'find_all'
+2024-09-23 09:45:38,197 - scripts.scrape_lyrics - ERROR - Error parsing div at index 20: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:38,197 - scripts.scrape_lyrics - ERROR - Error parsing div at index 22: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:38,197 - scripts.scrape_lyrics - ERROR - Error parsing div at index 24: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:38,197 - scripts.scrape_lyrics - ERROR - Error parsing div at index 26: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:38,197 - scripts.scrape_lyrics - ERROR - Error parsing div at index 28: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:38,197 - scripts.scrape_lyrics - ERROR - Error parsing div at index 30: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:38,197 - scripts.scrape_lyrics - ERROR - Error parsing div at index 32: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:38,197 - scripts.scrape_lyrics - ERROR - Error parsing div at index 33: 'Comment' object has no attribute 'find_all'
+2024-09-23 09:45:38,197 - scripts.scrape_lyrics - ERROR - Error parsing div at index 34: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:38,197 - scripts.scrape_lyrics - ERROR - Error parsing div at index 36: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:38,198 - scripts.scrape_lyrics - ERROR - Error parsing div at index 37: 'Comment' object has no attribute 'find_all'
+2024-09-23 09:45:38,198 - scripts.scrape_lyrics - ERROR - Error parsing div at index 38: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:38,198 - scripts.scrape_lyrics - ERROR - Error parsing div at index 40: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:38,198 - scripts.scrape_lyrics - ERROR - Error parsing div at index 41: 'Comment' object has no attribute 'find_all'
+2024-09-23 09:45:38,198 - scripts.scrape_lyrics - ERROR - Error parsing div at index 42: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:38,198 - scripts.scrape_lyrics - ERROR - Error parsing div at index 44: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:38,198 - scripts.scrape_lyrics - ERROR - Error parsing div at index 45: 'Comment' object has no attribute 'find_all'
+2024-09-23 09:45:38,198 - scripts.scrape_lyrics - ERROR - Error parsing div at index 46: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:38,198 - scripts.scrape_lyrics - ERROR - Error parsing div at index 48: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:38,198 - scripts.scrape_lyrics - ERROR - Error parsing div at index 49: 'Comment' object has no attribute 'find_all'
+2024-09-23 09:45:38,198 - scripts.scrape_lyrics - ERROR - Error parsing div at index 50: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:38,198 - scripts.scrape_lyrics - ERROR - Error parsing div at index 52: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:38,198 - scripts.scrape_lyrics - ERROR - Error parsing div at index 54: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:38,198 - scripts.scrape_lyrics - INFO - Lyrics successfully parsed
+2024-09-23 09:45:38,208 - scripts.scrape_lyrics - INFO - Genre found: pop
+2024-09-23 09:45:38,218 - scripts.scrape_lyrics - INFO - Album found: EP:"The Three Words To Remember In Dealing With The End"(2004)
+2024-09-23 09:45:38,229 - scripts.scrape_lyrics - WARNING - Writers not found
+2024-09-23 09:45:38,230 - scripts.scrape_lyrics - INFO - Lyrics: 
+
+Go!
+
+I'm looking forward to another day without you
+The way I see it you could never do what I do
+I welcomed you with open arms
+You drove the knife right through my heart
+So now I'm crossing out the pain that's been tearing us apart
+
+You were out of sight, now you are out of line
+Went to your head, now you are left behind
+
+Let me go, can't you see?
+You're just the next best thing to me
+Here I go, honestly
+You're just the next best thing to me
+
+I'm packing up my things and moving on without you
+As far as I can see you'll never do what I do
+I'm pushing you away, living out my dreams that you tore down
+Can't you just swallow up your pride
+Admit to me, and finally drown
+
+I think you're in over your head
+Choking as the water fills your lungs
+Can't you see to me you're dead?
+Too late now, what said it's done
+
+You were out of sight, now you are out of line
+Went to your head, now you are left behind
+
+Let me go, can't you see?
+You're just the next best thing to me
+Here I go, honestly
+You're just the next best thing to me
+
+2024-09-23 09:45:38,230 - scripts.scrape_lyrics - INFO - Genre: pop
+2024-09-23 09:45:38,230 - scripts.scrape_lyrics - INFO - Album: EP:"The Three Words To Remember In Dealing With The End"(2004)
+2024-09-23 09:45:38,230 - scripts.scrape_lyrics - INFO - Writers: Writers not found
+2024-09-23 09:45:38,237 - scripts.scrape_lyrics - INFO - Parsing artist All TIme Low
+2024-09-23 09:45:38,237 - scripts.scrape_lyrics - INFO - Paring song: Last Flight Home
+2024-09-23 09:45:38,237 - scripts.scrape_lyrics - INFO - Generated URL: https://www.azlyrics.com/lyrics/alltimelow/lastflighthome.html
+2024-09-23 09:45:38,899 - scripts.scrape_lyrics - INFO - Successfully opened URL: https://www.azlyrics.com/lyrics/alltimelow/lastflighthome.html
+2024-09-23 09:45:38,910 - scripts.scrape_lyrics - ERROR - Error parsing div at index 0: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:38,910 - scripts.scrape_lyrics - ERROR - Error parsing div at index 2: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:38,910 - scripts.scrape_lyrics - ERROR - Error parsing div at index 4: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:38,910 - scripts.scrape_lyrics - ERROR - Error parsing div at index 6: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:38,910 - scripts.scrape_lyrics - ERROR - Error parsing div at index 8: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:38,910 - scripts.scrape_lyrics - ERROR - Error parsing div at index 11: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:38,910 - scripts.scrape_lyrics - ERROR - Error parsing div at index 13: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:38,910 - scripts.scrape_lyrics - ERROR - Error parsing div at index 15: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:38,910 - scripts.scrape_lyrics - ERROR - Error parsing div at index 18: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:38,911 - scripts.scrape_lyrics - ERROR - Error parsing div at index 19: 'Comment' object has no attribute 'find_all'
+2024-09-23 09:45:38,911 - scripts.scrape_lyrics - ERROR - Error parsing div at index 20: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:38,911 - scripts.scrape_lyrics - ERROR - Error parsing div at index 22: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:38,911 - scripts.scrape_lyrics - ERROR - Error parsing div at index 24: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:38,911 - scripts.scrape_lyrics - ERROR - Error parsing div at index 26: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:38,911 - scripts.scrape_lyrics - ERROR - Error parsing div at index 28: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:38,911 - scripts.scrape_lyrics - ERROR - Error parsing div at index 30: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:38,911 - scripts.scrape_lyrics - ERROR - Error parsing div at index 32: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:38,911 - scripts.scrape_lyrics - ERROR - Error parsing div at index 33: 'Comment' object has no attribute 'find_all'
+2024-09-23 09:45:38,911 - scripts.scrape_lyrics - ERROR - Error parsing div at index 34: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:38,911 - scripts.scrape_lyrics - ERROR - Error parsing div at index 36: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:38,911 - scripts.scrape_lyrics - ERROR - Error parsing div at index 37: 'Comment' object has no attribute 'find_all'
+2024-09-23 09:45:38,911 - scripts.scrape_lyrics - ERROR - Error parsing div at index 38: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:38,911 - scripts.scrape_lyrics - ERROR - Error parsing div at index 40: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:38,911 - scripts.scrape_lyrics - ERROR - Error parsing div at index 41: 'Comment' object has no attribute 'find_all'
+2024-09-23 09:45:38,911 - scripts.scrape_lyrics - ERROR - Error parsing div at index 42: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:38,911 - scripts.scrape_lyrics - ERROR - Error parsing div at index 44: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:38,911 - scripts.scrape_lyrics - ERROR - Error parsing div at index 45: 'Comment' object has no attribute 'find_all'
+2024-09-23 09:45:38,912 - scripts.scrape_lyrics - ERROR - Error parsing div at index 46: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:38,912 - scripts.scrape_lyrics - ERROR - Error parsing div at index 48: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:38,912 - scripts.scrape_lyrics - ERROR - Error parsing div at index 49: 'Comment' object has no attribute 'find_all'
+2024-09-23 09:45:38,912 - scripts.scrape_lyrics - ERROR - Error parsing div at index 50: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:38,912 - scripts.scrape_lyrics - ERROR - Error parsing div at index 52: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:38,912 - scripts.scrape_lyrics - ERROR - Error parsing div at index 54: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:38,912 - scripts.scrape_lyrics - INFO - Lyrics successfully parsed
+2024-09-23 09:45:38,921 - scripts.scrape_lyrics - INFO - Genre found: pop
+2024-09-23 09:45:38,931 - scripts.scrape_lyrics - INFO - Album found: EP:"The Three Words To Remember In Dealing With The End"(2004)
+2024-09-23 09:45:38,942 - scripts.scrape_lyrics - WARNING - Writers not found
+2024-09-23 09:45:38,942 - scripts.scrape_lyrics - INFO - Lyrics: 
+
+Shut your mouth and listen closely,
+Because this silence isn't easy
+So I'll break it even harder than before
+
+Because I'm 16 going on the end of my days,
+And if words aren't going to cut than I'll find another way.
+
+Because I'm leaving what I know behind,
+And I'm living out my chance to shine
+Like the stars now fading from your eyes
+And I hope you'll understand
+
+Woah, woah, please wait till I come home
+Woah, woah, don't turn my heart to stone.
+
+Now the runway lights are fading,
+With the darkness overtaking,
+I'll leave you standing watching all alone
+From that paneglass window one million miles away
+And I'm sorry when I tell you
+That I'm coming back someday
+
+Because I'm leaving what I know behind,
+And I'm living out my chance to shine
+Like the stars now fading from your eyes
+And I hope you'll understand
+
+Woah, woah, please wait till I come home
+Woah, woah, don't turn my heart to stone.
+
+Woah, woah, please wait till I come home
+Woah, woah, don't turn my heart to stone.
+
+Don't turn my heart to stone.
+
+2024-09-23 09:45:38,942 - scripts.scrape_lyrics - INFO - Genre: pop
+2024-09-23 09:45:38,942 - scripts.scrape_lyrics - INFO - Album: EP:"The Three Words To Remember In Dealing With The End"(2004)
+2024-09-23 09:45:38,942 - scripts.scrape_lyrics - INFO - Writers: Writers not found
+2024-09-23 09:45:38,945 - scripts.scrape_lyrics - INFO - Parsing artist All TIme Low
+2024-09-23 09:45:38,945 - scripts.scrape_lyrics - INFO - Paring song: Memories That Fade Like Photographs
+2024-09-23 09:45:38,945 - scripts.scrape_lyrics - INFO - Generated URL: https://www.azlyrics.com/lyrics/alltimelow/memoriesthatfadelikephotographs.html
+2024-09-23 09:45:39,551 - scripts.scrape_lyrics - INFO - Successfully opened URL: https://www.azlyrics.com/lyrics/alltimelow/memoriesthatfadelikephotographs.html
+2024-09-23 09:45:39,562 - scripts.scrape_lyrics - ERROR - Error parsing div at index 0: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:39,562 - scripts.scrape_lyrics - ERROR - Error parsing div at index 2: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:39,562 - scripts.scrape_lyrics - ERROR - Error parsing div at index 4: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:39,562 - scripts.scrape_lyrics - ERROR - Error parsing div at index 6: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:39,562 - scripts.scrape_lyrics - ERROR - Error parsing div at index 8: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:39,562 - scripts.scrape_lyrics - ERROR - Error parsing div at index 11: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:39,562 - scripts.scrape_lyrics - ERROR - Error parsing div at index 13: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:39,563 - scripts.scrape_lyrics - ERROR - Error parsing div at index 15: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:39,563 - scripts.scrape_lyrics - ERROR - Error parsing div at index 18: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:39,563 - scripts.scrape_lyrics - ERROR - Error parsing div at index 19: 'Comment' object has no attribute 'find_all'
+2024-09-23 09:45:39,563 - scripts.scrape_lyrics - ERROR - Error parsing div at index 20: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:39,563 - scripts.scrape_lyrics - ERROR - Error parsing div at index 22: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:39,563 - scripts.scrape_lyrics - ERROR - Error parsing div at index 24: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:39,563 - scripts.scrape_lyrics - ERROR - Error parsing div at index 26: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:39,563 - scripts.scrape_lyrics - ERROR - Error parsing div at index 28: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:39,563 - scripts.scrape_lyrics - ERROR - Error parsing div at index 30: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:39,563 - scripts.scrape_lyrics - ERROR - Error parsing div at index 32: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:39,563 - scripts.scrape_lyrics - ERROR - Error parsing div at index 33: 'Comment' object has no attribute 'find_all'
+2024-09-23 09:45:39,563 - scripts.scrape_lyrics - ERROR - Error parsing div at index 34: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:39,563 - scripts.scrape_lyrics - ERROR - Error parsing div at index 36: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:39,563 - scripts.scrape_lyrics - ERROR - Error parsing div at index 37: 'Comment' object has no attribute 'find_all'
+2024-09-23 09:45:39,563 - scripts.scrape_lyrics - ERROR - Error parsing div at index 38: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:39,563 - scripts.scrape_lyrics - ERROR - Error parsing div at index 40: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:39,563 - scripts.scrape_lyrics - ERROR - Error parsing div at index 41: 'Comment' object has no attribute 'find_all'
+2024-09-23 09:45:39,563 - scripts.scrape_lyrics - ERROR - Error parsing div at index 42: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:39,563 - scripts.scrape_lyrics - ERROR - Error parsing div at index 44: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:39,563 - scripts.scrape_lyrics - ERROR - Error parsing div at index 45: 'Comment' object has no attribute 'find_all'
+2024-09-23 09:45:39,564 - scripts.scrape_lyrics - ERROR - Error parsing div at index 46: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:39,564 - scripts.scrape_lyrics - ERROR - Error parsing div at index 48: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:39,564 - scripts.scrape_lyrics - ERROR - Error parsing div at index 49: 'Comment' object has no attribute 'find_all'
+2024-09-23 09:45:39,564 - scripts.scrape_lyrics - ERROR - Error parsing div at index 50: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:39,564 - scripts.scrape_lyrics - ERROR - Error parsing div at index 52: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:39,564 - scripts.scrape_lyrics - ERROR - Error parsing div at index 54: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:39,564 - scripts.scrape_lyrics - INFO - Lyrics successfully parsed
+2024-09-23 09:45:39,573 - scripts.scrape_lyrics - INFO - Genre found: pop
+2024-09-23 09:45:39,582 - scripts.scrape_lyrics - INFO - Album found: EP:"The Three Words To Remember In Dealing With The End"(2004)
+2024-09-23 09:45:39,593 - scripts.scrape_lyrics - WARNING - Writers not found
+2024-09-23 09:45:39,593 - scripts.scrape_lyrics - INFO - Lyrics: 
+
+I said I'd never forget your face
+Vaulted away inside my head
+And memories never seem to fade
+You were the best part of my life, my last regret
+
+Now I've walked this line a thousand times before
+It hurts too much to bear
+For you, I'd tear out my own heart
+And write our names together
+
+Your love is the barrel of a gun
+So tell me, am I on the right end?
+I could be nothing but a memory to you
+Don't let this memory fade away
+
+And in the end, we're turning on and off again
+There's a look in your eye
+And it's screaming "goodbye"
+I'd hate to watch you cry
+
+Your love is the barrel of a gun
+So tell me, am I on the right end?
+I could be nothing but a memory to you
+Don't let this memory fade away
+
+There's a look in your eye
+And it's screaming "goodbye"
+Now it tears me apart just to look at the sky
+And I'd hate to watch you cry
+I'd hate to watch you cry
+
+Your love is the barrel of a gun
+So tell me, am I on the right end?
+I could be nothing but a memory to you
+Don't let this memory fade away
+
+2024-09-23 09:45:39,593 - scripts.scrape_lyrics - INFO - Genre: pop
+2024-09-23 09:45:39,593 - scripts.scrape_lyrics - INFO - Album: EP:"The Three Words To Remember In Dealing With The End"(2004)
+2024-09-23 09:45:39,593 - scripts.scrape_lyrics - INFO - Writers: Writers not found
+2024-09-23 09:45:39,596 - scripts.scrape_lyrics - INFO - Parsing artist All TIme Low
+2024-09-23 09:45:39,596 - scripts.scrape_lyrics - INFO - Paring song: The Party Scene
+2024-09-23 09:45:39,596 - scripts.scrape_lyrics - INFO - Generated URL: https://www.azlyrics.com/lyrics/alltimelow/thepartyscene.html
+2024-09-23 09:45:40,198 - scripts.scrape_lyrics - INFO - Successfully opened URL: https://www.azlyrics.com/lyrics/alltimelow/thepartyscene.html
+2024-09-23 09:45:40,211 - scripts.scrape_lyrics - ERROR - Error parsing div at index 0: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:40,211 - scripts.scrape_lyrics - ERROR - Error parsing div at index 2: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:40,211 - scripts.scrape_lyrics - ERROR - Error parsing div at index 4: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:40,211 - scripts.scrape_lyrics - ERROR - Error parsing div at index 6: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:40,211 - scripts.scrape_lyrics - ERROR - Error parsing div at index 8: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:40,211 - scripts.scrape_lyrics - ERROR - Error parsing div at index 11: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:40,211 - scripts.scrape_lyrics - ERROR - Error parsing div at index 13: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:40,211 - scripts.scrape_lyrics - ERROR - Error parsing div at index 15: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:40,212 - scripts.scrape_lyrics - ERROR - Error parsing div at index 18: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:40,212 - scripts.scrape_lyrics - ERROR - Error parsing div at index 19: 'Comment' object has no attribute 'find_all'
+2024-09-23 09:45:40,212 - scripts.scrape_lyrics - ERROR - Error parsing div at index 20: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:40,212 - scripts.scrape_lyrics - ERROR - Error parsing div at index 22: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:40,212 - scripts.scrape_lyrics - ERROR - Error parsing div at index 24: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:40,212 - scripts.scrape_lyrics - ERROR - Error parsing div at index 26: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:40,212 - scripts.scrape_lyrics - ERROR - Error parsing div at index 28: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:40,212 - scripts.scrape_lyrics - ERROR - Error parsing div at index 30: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:40,212 - scripts.scrape_lyrics - ERROR - Error parsing div at index 32: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:40,212 - scripts.scrape_lyrics - ERROR - Error parsing div at index 33: 'Comment' object has no attribute 'find_all'
+2024-09-23 09:45:40,212 - scripts.scrape_lyrics - ERROR - Error parsing div at index 34: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:40,212 - scripts.scrape_lyrics - ERROR - Error parsing div at index 36: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:40,212 - scripts.scrape_lyrics - ERROR - Error parsing div at index 37: 'Comment' object has no attribute 'find_all'
+2024-09-23 09:45:40,212 - scripts.scrape_lyrics - ERROR - Error parsing div at index 38: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:40,212 - scripts.scrape_lyrics - ERROR - Error parsing div at index 40: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:40,212 - scripts.scrape_lyrics - ERROR - Error parsing div at index 41: 'Comment' object has no attribute 'find_all'
+2024-09-23 09:45:40,212 - scripts.scrape_lyrics - ERROR - Error parsing div at index 42: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:40,212 - scripts.scrape_lyrics - ERROR - Error parsing div at index 44: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:40,212 - scripts.scrape_lyrics - ERROR - Error parsing div at index 45: 'Comment' object has no attribute 'find_all'
+2024-09-23 09:45:40,212 - scripts.scrape_lyrics - ERROR - Error parsing div at index 46: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:40,212 - scripts.scrape_lyrics - ERROR - Error parsing div at index 48: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:40,213 - scripts.scrape_lyrics - ERROR - Error parsing div at index 49: 'Comment' object has no attribute 'find_all'
+2024-09-23 09:45:40,213 - scripts.scrape_lyrics - ERROR - Error parsing div at index 50: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:40,213 - scripts.scrape_lyrics - ERROR - Error parsing div at index 52: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:40,213 - scripts.scrape_lyrics - ERROR - Error parsing div at index 54: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:40,213 - scripts.scrape_lyrics - INFO - Lyrics successfully parsed
+2024-09-23 09:45:40,222 - scripts.scrape_lyrics - INFO - Genre found: pop
+2024-09-23 09:45:40,232 - scripts.scrape_lyrics - INFO - Album found: EP:"Put Up Or Shut Up"(2006)
+2024-09-23 09:45:40,242 - scripts.scrape_lyrics - INFO - Writer(s) found: Alexander William Gaskarth, Robert Ryan Dawson, Jack Bassam Barakat, Zachary Steven Merrick
+2024-09-23 09:45:40,242 - scripts.scrape_lyrics - INFO - Lyrics: 
+
+Hey, kid, you've got, a lot of potential 
+but I think its time to move up, so go on and blow us away with your sound;
+Now you're everything that we've come to love,
+you taught us to move, so we'll show it off,
+just drop us the beat...
+
+Here's to the fast times; the times we felt alive; 
+to all the nights that we forgot to get back home.
+Stay seventeen,
+the party scene has got the best of me and you,
+we've got to let this go...
+
+Drink up last call before the sunrise sets the scene,
+of empty bottles, heavy hearts,
+the memories of broken dreams...
+We were so tired yet so alive,
+wrapped up in lies like sheets of another one night stand,
+you know you left the girl with nothing but the,
+
+Sunrise through the window pane, where tired eyes will close....
+Stay seventeen, the party scene has got the best of me and you,
+we've got to let this go...
+
+I know she hopes I choke on this last drink,
+drop dead before my influence gets to her head...
+She said, "I'll love you forever, or find something better.
+It's all just the same as when we sleep together.
+We wake up with headaches, and trouble remembering
+what went wrong..."
+
+Stay seventeen,
+the party scene has got the best of me and you,
+we've got to let this go...
+
+2024-09-23 09:45:40,242 - scripts.scrape_lyrics - INFO - Genre: pop
+2024-09-23 09:45:40,242 - scripts.scrape_lyrics - INFO - Album: EP:"Put Up Or Shut Up"(2006)
+2024-09-23 09:45:40,242 - scripts.scrape_lyrics - INFO - Writers: Alexander William Gaskarth, Robert Ryan Dawson, Jack Bassam Barakat, Zachary Steven Merrick
+2024-09-23 09:45:40,244 - scripts.scrape_lyrics - INFO - Parsing artist All TIme Low
+2024-09-23 09:45:40,244 - scripts.scrape_lyrics - INFO - Paring song: Lullabies
+2024-09-23 09:45:40,244 - scripts.scrape_lyrics - INFO - Generated URL: https://www.azlyrics.com/lyrics/alltimelow/lullabies.html
+2024-09-23 09:45:40,831 - scripts.scrape_lyrics - INFO - Successfully opened URL: https://www.azlyrics.com/lyrics/alltimelow/lullabies.html
+2024-09-23 09:45:40,856 - scripts.scrape_lyrics - ERROR - Error parsing div at index 0: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:40,857 - scripts.scrape_lyrics - ERROR - Error parsing div at index 2: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:40,857 - scripts.scrape_lyrics - ERROR - Error parsing div at index 4: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:40,857 - scripts.scrape_lyrics - ERROR - Error parsing div at index 6: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:40,857 - scripts.scrape_lyrics - ERROR - Error parsing div at index 8: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:40,857 - scripts.scrape_lyrics - ERROR - Error parsing div at index 11: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:40,857 - scripts.scrape_lyrics - ERROR - Error parsing div at index 13: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:40,857 - scripts.scrape_lyrics - ERROR - Error parsing div at index 15: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:40,857 - scripts.scrape_lyrics - ERROR - Error parsing div at index 18: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:40,857 - scripts.scrape_lyrics - ERROR - Error parsing div at index 19: 'Comment' object has no attribute 'find_all'
+2024-09-23 09:45:40,857 - scripts.scrape_lyrics - ERROR - Error parsing div at index 20: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:40,857 - scripts.scrape_lyrics - ERROR - Error parsing div at index 22: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:40,857 - scripts.scrape_lyrics - ERROR - Error parsing div at index 24: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:40,857 - scripts.scrape_lyrics - ERROR - Error parsing div at index 26: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:40,857 - scripts.scrape_lyrics - ERROR - Error parsing div at index 28: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:40,857 - scripts.scrape_lyrics - ERROR - Error parsing div at index 30: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:40,857 - scripts.scrape_lyrics - ERROR - Error parsing div at index 32: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:40,858 - scripts.scrape_lyrics - ERROR - Error parsing div at index 33: 'Comment' object has no attribute 'find_all'
+2024-09-23 09:45:40,858 - scripts.scrape_lyrics - ERROR - Error parsing div at index 34: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:40,858 - scripts.scrape_lyrics - ERROR - Error parsing div at index 36: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:40,858 - scripts.scrape_lyrics - ERROR - Error parsing div at index 37: 'Comment' object has no attribute 'find_all'
+2024-09-23 09:45:40,858 - scripts.scrape_lyrics - ERROR - Error parsing div at index 38: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:40,858 - scripts.scrape_lyrics - ERROR - Error parsing div at index 40: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:40,858 - scripts.scrape_lyrics - ERROR - Error parsing div at index 41: 'Comment' object has no attribute 'find_all'
+2024-09-23 09:45:40,858 - scripts.scrape_lyrics - ERROR - Error parsing div at index 42: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:40,858 - scripts.scrape_lyrics - ERROR - Error parsing div at index 44: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:40,858 - scripts.scrape_lyrics - ERROR - Error parsing div at index 45: 'Comment' object has no attribute 'find_all'
+2024-09-23 09:45:40,858 - scripts.scrape_lyrics - ERROR - Error parsing div at index 46: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:40,858 - scripts.scrape_lyrics - ERROR - Error parsing div at index 48: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:40,858 - scripts.scrape_lyrics - ERROR - Error parsing div at index 49: 'Comment' object has no attribute 'find_all'
+2024-09-23 09:45:40,858 - scripts.scrape_lyrics - ERROR - Error parsing div at index 50: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:40,858 - scripts.scrape_lyrics - ERROR - Error parsing div at index 52: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:40,858 - scripts.scrape_lyrics - ERROR - Error parsing div at index 54: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:40,858 - scripts.scrape_lyrics - INFO - Lyrics successfully parsed
+2024-09-23 09:45:40,868 - scripts.scrape_lyrics - INFO - Genre found: pop
+2024-09-23 09:45:40,878 - scripts.scrape_lyrics - INFO - Album found: EP:"Put Up Or Shut Up"(2006)
+2024-09-23 09:45:40,888 - scripts.scrape_lyrics - INFO - Writer(s) found: Alexander William Gaskarth, Robert Ryan Dawson, Jack Bassam Barakat, Zachary Steven Merrick
+2024-09-23 09:45:40,888 - scripts.scrape_lyrics - INFO - Lyrics: 
+
+Make it a sweet, sweet goodbye
+It could be for the last time and it's not right.
+"Don't let yourself get in over your head, " he said.
+Alone and far from home I'll find you...
+
+Dead, like a candle you burned out;
+Spill the wax over the spaces left in place of angry words.
+Scream, to be heard, like you needed any more attention;
+Throw the bottle, break the door, and disappear.
+
+Sing me to sleep, I'll see you in my dreams,
+Waiting to say, "I miss you. I'm so sorry."
+
+Forever's never seemed so long as when you're not around
+It's like a piece of me is missing.
+I could have learned so much from you but what's left now?
+Don't you realize you shot this family a world of pain?
+Can't you see there could have been a happy ending we let go?
+
+Sing me to sleep, I'll see you in my dreams,
+Waiting to say, "I miss you. I'm so sorry."
+
+Sing me to sleep.
+Sing me to sleep.
+Sing me to sleep.
+Sing me to s...
+
+Sing me to sleep (You've taken so much with you...)
+I'll see you in my dreams, (But left the worst with me...),
+Waiting to say, "I miss you. I'm so sorry."
+I'm sorry, I'm sorry!
+
+2024-09-23 09:45:40,888 - scripts.scrape_lyrics - INFO - Genre: pop
+2024-09-23 09:45:40,889 - scripts.scrape_lyrics - INFO - Album: EP:"Put Up Or Shut Up"(2006)
+2024-09-23 09:45:40,889 - scripts.scrape_lyrics - INFO - Writers: Alexander William Gaskarth, Robert Ryan Dawson, Jack Bassam Barakat, Zachary Steven Merrick
+2024-09-23 09:45:40,890 - scripts.scrape_lyrics - INFO - Parsing artist All TIme Low
+2024-09-23 09:45:40,891 - scripts.scrape_lyrics - INFO - Paring song: Hometown Heroes; National Nobodies
+2024-09-23 09:45:40,891 - scripts.scrape_lyrics - INFO - Generated URL: https://www.azlyrics.com/lyrics/alltimelow/hometownheroesnationalnobodies.html
+2024-09-23 09:45:41,560 - scripts.scrape_lyrics - INFO - Successfully opened URL: https://www.azlyrics.com/lyrics/alltimelow/hometownheroesnationalnobodies.html
+2024-09-23 09:45:41,572 - scripts.scrape_lyrics - ERROR - Error parsing div at index 0: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:41,572 - scripts.scrape_lyrics - ERROR - Error parsing div at index 2: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:41,572 - scripts.scrape_lyrics - ERROR - Error parsing div at index 4: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:41,573 - scripts.scrape_lyrics - ERROR - Error parsing div at index 6: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:41,573 - scripts.scrape_lyrics - ERROR - Error parsing div at index 8: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:41,573 - scripts.scrape_lyrics - ERROR - Error parsing div at index 11: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:41,573 - scripts.scrape_lyrics - ERROR - Error parsing div at index 13: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:41,573 - scripts.scrape_lyrics - ERROR - Error parsing div at index 15: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:41,573 - scripts.scrape_lyrics - ERROR - Error parsing div at index 18: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:41,573 - scripts.scrape_lyrics - ERROR - Error parsing div at index 19: 'Comment' object has no attribute 'find_all'
+2024-09-23 09:45:41,573 - scripts.scrape_lyrics - ERROR - Error parsing div at index 20: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:41,573 - scripts.scrape_lyrics - ERROR - Error parsing div at index 22: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:41,573 - scripts.scrape_lyrics - ERROR - Error parsing div at index 24: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:41,573 - scripts.scrape_lyrics - ERROR - Error parsing div at index 26: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:41,574 - scripts.scrape_lyrics - ERROR - Error parsing div at index 28: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:41,574 - scripts.scrape_lyrics - ERROR - Error parsing div at index 30: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:41,574 - scripts.scrape_lyrics - ERROR - Error parsing div at index 32: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:41,574 - scripts.scrape_lyrics - ERROR - Error parsing div at index 33: 'Comment' object has no attribute 'find_all'
+2024-09-23 09:45:41,574 - scripts.scrape_lyrics - ERROR - Error parsing div at index 34: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:41,574 - scripts.scrape_lyrics - ERROR - Error parsing div at index 36: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:41,574 - scripts.scrape_lyrics - ERROR - Error parsing div at index 37: 'Comment' object has no attribute 'find_all'
+2024-09-23 09:45:41,574 - scripts.scrape_lyrics - ERROR - Error parsing div at index 38: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:41,574 - scripts.scrape_lyrics - ERROR - Error parsing div at index 40: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:41,574 - scripts.scrape_lyrics - ERROR - Error parsing div at index 41: 'Comment' object has no attribute 'find_all'
+2024-09-23 09:45:41,574 - scripts.scrape_lyrics - ERROR - Error parsing div at index 42: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:41,574 - scripts.scrape_lyrics - ERROR - Error parsing div at index 44: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:41,574 - scripts.scrape_lyrics - ERROR - Error parsing div at index 45: 'Comment' object has no attribute 'find_all'
+2024-09-23 09:45:41,574 - scripts.scrape_lyrics - ERROR - Error parsing div at index 46: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:41,574 - scripts.scrape_lyrics - ERROR - Error parsing div at index 48: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:41,574 - scripts.scrape_lyrics - ERROR - Error parsing div at index 49: 'Comment' object has no attribute 'find_all'
+2024-09-23 09:45:41,574 - scripts.scrape_lyrics - ERROR - Error parsing div at index 50: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:41,574 - scripts.scrape_lyrics - ERROR - Error parsing div at index 52: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:41,574 - scripts.scrape_lyrics - ERROR - Error parsing div at index 54: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:41,574 - scripts.scrape_lyrics - INFO - Lyrics successfully parsed
+2024-09-23 09:45:41,587 - scripts.scrape_lyrics - INFO - Genre found: pop
+2024-09-23 09:45:41,597 - scripts.scrape_lyrics - INFO - Album found: "The Party Scene"(2005)
+2024-09-23 09:45:41,608 - scripts.scrape_lyrics - WARNING - Writers not found
+2024-09-23 09:45:41,609 - scripts.scrape_lyrics - INFO - Lyrics: 
+
+They've had chances to make this big city seem so small,
+Under stage lights, in rooms packed from window to wall,
+Like the sound of a smile, or the distance of song,
+only measured in time as the kids sing along.
+
+They are the ones who make a difference,
+get these people on their feet.
+
+They say let us be heard... Hear us out...
+
+Can you hear the crowd is calling,
+"Hey, sing louder now,"
+You've got to show them what it means to be alive...
+Dancing through the night has never been so rock n' roll,
+You've got a good thing and it's time to let them know.
+
+Win their hearts with words unlike the pages left at home,
+Secrets kept from critics no one ever wants to know...
+
+Can you hear the crowd is calling,
+"Hey, sing louder now,"
+You've got to show them what it means to be alive...
+Dancing through the night has never been so rock n' roll,
+You've got a good thing and it's time to let them know.
+
+Sing louder now...
+
+Lets dance the night away...
+
+2024-09-23 09:45:41,609 - scripts.scrape_lyrics - INFO - Genre: pop
+2024-09-23 09:45:41,609 - scripts.scrape_lyrics - INFO - Album: "The Party Scene"(2005)
+2024-09-23 09:45:41,609 - scripts.scrape_lyrics - INFO - Writers: Writers not found
+2024-09-23 09:45:41,610 - scripts.scrape_lyrics - INFO - Parsing artist All TIme Low
+2024-09-23 09:45:41,610 - scripts.scrape_lyrics - INFO - Paring song: Circles
+2024-09-23 09:45:41,610 - scripts.scrape_lyrics - INFO - Generated URL: https://www.azlyrics.com/lyrics/alltimelow/circles.html
+2024-09-23 09:45:42,216 - scripts.scrape_lyrics - INFO - Successfully opened URL: https://www.azlyrics.com/lyrics/alltimelow/circles.html
+2024-09-23 09:45:42,228 - scripts.scrape_lyrics - ERROR - Error parsing div at index 0: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:42,228 - scripts.scrape_lyrics - ERROR - Error parsing div at index 2: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:42,228 - scripts.scrape_lyrics - ERROR - Error parsing div at index 4: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:42,228 - scripts.scrape_lyrics - ERROR - Error parsing div at index 6: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:42,228 - scripts.scrape_lyrics - ERROR - Error parsing div at index 8: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:42,228 - scripts.scrape_lyrics - ERROR - Error parsing div at index 11: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:42,228 - scripts.scrape_lyrics - ERROR - Error parsing div at index 13: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:42,229 - scripts.scrape_lyrics - ERROR - Error parsing div at index 15: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:42,229 - scripts.scrape_lyrics - ERROR - Error parsing div at index 18: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:42,229 - scripts.scrape_lyrics - ERROR - Error parsing div at index 19: 'Comment' object has no attribute 'find_all'
+2024-09-23 09:45:42,229 - scripts.scrape_lyrics - ERROR - Error parsing div at index 20: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:42,229 - scripts.scrape_lyrics - ERROR - Error parsing div at index 22: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:42,229 - scripts.scrape_lyrics - ERROR - Error parsing div at index 24: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:42,229 - scripts.scrape_lyrics - ERROR - Error parsing div at index 26: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:42,229 - scripts.scrape_lyrics - ERROR - Error parsing div at index 28: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:42,229 - scripts.scrape_lyrics - ERROR - Error parsing div at index 30: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:42,229 - scripts.scrape_lyrics - ERROR - Error parsing div at index 32: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:42,229 - scripts.scrape_lyrics - ERROR - Error parsing div at index 33: 'Comment' object has no attribute 'find_all'
+2024-09-23 09:45:42,229 - scripts.scrape_lyrics - ERROR - Error parsing div at index 34: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:42,229 - scripts.scrape_lyrics - ERROR - Error parsing div at index 36: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:42,229 - scripts.scrape_lyrics - ERROR - Error parsing div at index 37: 'Comment' object has no attribute 'find_all'
+2024-09-23 09:45:42,229 - scripts.scrape_lyrics - ERROR - Error parsing div at index 38: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:42,229 - scripts.scrape_lyrics - ERROR - Error parsing div at index 40: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:42,229 - scripts.scrape_lyrics - ERROR - Error parsing div at index 41: 'Comment' object has no attribute 'find_all'
+2024-09-23 09:45:42,229 - scripts.scrape_lyrics - ERROR - Error parsing div at index 42: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:42,229 - scripts.scrape_lyrics - ERROR - Error parsing div at index 44: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:42,229 - scripts.scrape_lyrics - ERROR - Error parsing div at index 45: 'Comment' object has no attribute 'find_all'
+2024-09-23 09:45:42,230 - scripts.scrape_lyrics - ERROR - Error parsing div at index 46: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:42,230 - scripts.scrape_lyrics - ERROR - Error parsing div at index 48: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:42,230 - scripts.scrape_lyrics - ERROR - Error parsing div at index 49: 'Comment' object has no attribute 'find_all'
+2024-09-23 09:45:42,230 - scripts.scrape_lyrics - ERROR - Error parsing div at index 50: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:42,230 - scripts.scrape_lyrics - ERROR - Error parsing div at index 52: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:42,230 - scripts.scrape_lyrics - ERROR - Error parsing div at index 54: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:42,230 - scripts.scrape_lyrics - INFO - Lyrics successfully parsed
+2024-09-23 09:45:42,242 - scripts.scrape_lyrics - INFO - Genre found: pop
+2024-09-23 09:45:42,254 - scripts.scrape_lyrics - INFO - Album found: "The Party Scene"(2005)
+2024-09-23 09:45:42,266 - scripts.scrape_lyrics - WARNING - Writers not found
+2024-09-23 09:45:42,266 - scripts.scrape_lyrics - INFO - Lyrics: 
+
+Inquisitive and thoughtful,
+She was the challenge he'd been waiting for
+A reminder that creativity runs deep, like secrets
+Dark eyed dreamers - they were a dangerous pair
+"Q" next to "U", scribbled out on paper
+
+They stop
+They go
+They're done
+
+Go back to the place we knew before
+Retrace our steps to the basement door
+I'll ask you if the rain still makes you smile
+Like so much time that we spent in the fall
+Put color in our cheeks while the air turned cold
+Preceding what became our bitter end
+
+Round in circles - let's start over
+Round in circles - let's start over
+
+Unanswered questions
+Would be the only thing to stop them now
+He was the poet, while she was the muse
+She had a pen that she knew how to use
+A touch of redemption, a hint of elation
+A recipe for disaster
+
+Go back to the place we knew before
+Retrace our steps to the basement door
+I'll ask you if the rain still makes you smile
+Like so much time that we spent in the fall
+Put color in our cheeks while the air turned cold
+Preceding what became our bitter end
+
+Let this be a lesson to us all
+
+Round in circles - let's start over
+Round in circles - let's start over
+
+Round in circles
+Round in circles
+Round in circles
+Round in circles
+
+2024-09-23 09:45:42,267 - scripts.scrape_lyrics - INFO - Genre: pop
+2024-09-23 09:45:42,267 - scripts.scrape_lyrics - INFO - Album: "The Party Scene"(2005)
+2024-09-23 09:45:42,267 - scripts.scrape_lyrics - INFO - Writers: Writers not found
+2024-09-23 09:45:42,269 - scripts.scrape_lyrics - INFO - Parsing artist All TIme Low
+2024-09-23 09:45:42,270 - scripts.scrape_lyrics - INFO - Paring song: We Say Summer
+2024-09-23 09:45:42,270 - scripts.scrape_lyrics - INFO - Generated URL: https://www.azlyrics.com/lyrics/alltimelow/wesaysummer.html
+2024-09-23 09:45:42,860 - scripts.scrape_lyrics - INFO - Successfully opened URL: https://www.azlyrics.com/lyrics/alltimelow/wesaysummer.html
+2024-09-23 09:45:42,872 - scripts.scrape_lyrics - ERROR - Error parsing div at index 0: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:42,872 - scripts.scrape_lyrics - ERROR - Error parsing div at index 2: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:42,872 - scripts.scrape_lyrics - ERROR - Error parsing div at index 4: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:42,872 - scripts.scrape_lyrics - ERROR - Error parsing div at index 6: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:42,872 - scripts.scrape_lyrics - ERROR - Error parsing div at index 8: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:42,872 - scripts.scrape_lyrics - ERROR - Error parsing div at index 11: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:42,872 - scripts.scrape_lyrics - ERROR - Error parsing div at index 13: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:42,872 - scripts.scrape_lyrics - ERROR - Error parsing div at index 15: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:42,872 - scripts.scrape_lyrics - ERROR - Error parsing div at index 18: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:42,872 - scripts.scrape_lyrics - ERROR - Error parsing div at index 19: 'Comment' object has no attribute 'find_all'
+2024-09-23 09:45:42,872 - scripts.scrape_lyrics - ERROR - Error parsing div at index 20: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:42,872 - scripts.scrape_lyrics - ERROR - Error parsing div at index 22: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:42,872 - scripts.scrape_lyrics - ERROR - Error parsing div at index 24: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:42,872 - scripts.scrape_lyrics - ERROR - Error parsing div at index 26: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:42,872 - scripts.scrape_lyrics - ERROR - Error parsing div at index 28: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:42,872 - scripts.scrape_lyrics - ERROR - Error parsing div at index 30: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:42,873 - scripts.scrape_lyrics - ERROR - Error parsing div at index 32: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:42,873 - scripts.scrape_lyrics - ERROR - Error parsing div at index 33: 'Comment' object has no attribute 'find_all'
+2024-09-23 09:45:42,873 - scripts.scrape_lyrics - ERROR - Error parsing div at index 34: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:42,873 - scripts.scrape_lyrics - ERROR - Error parsing div at index 36: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:42,873 - scripts.scrape_lyrics - ERROR - Error parsing div at index 37: 'Comment' object has no attribute 'find_all'
+2024-09-23 09:45:42,873 - scripts.scrape_lyrics - ERROR - Error parsing div at index 38: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:42,873 - scripts.scrape_lyrics - ERROR - Error parsing div at index 40: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:42,873 - scripts.scrape_lyrics - ERROR - Error parsing div at index 41: 'Comment' object has no attribute 'find_all'
+2024-09-23 09:45:42,873 - scripts.scrape_lyrics - ERROR - Error parsing div at index 42: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:42,873 - scripts.scrape_lyrics - ERROR - Error parsing div at index 44: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:42,873 - scripts.scrape_lyrics - ERROR - Error parsing div at index 45: 'Comment' object has no attribute 'find_all'
+2024-09-23 09:45:42,873 - scripts.scrape_lyrics - ERROR - Error parsing div at index 46: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:42,873 - scripts.scrape_lyrics - ERROR - Error parsing div at index 48: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:42,873 - scripts.scrape_lyrics - ERROR - Error parsing div at index 49: 'Comment' object has no attribute 'find_all'
+2024-09-23 09:45:42,873 - scripts.scrape_lyrics - ERROR - Error parsing div at index 50: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:42,873 - scripts.scrape_lyrics - ERROR - Error parsing div at index 52: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:42,873 - scripts.scrape_lyrics - ERROR - Error parsing div at index 54: 'NavigableString' object has no attribute 'find_all'
+2024-09-23 09:45:42,873 - scripts.scrape_lyrics - INFO - Lyrics successfully parsed
+2024-09-23 09:45:42,884 - scripts.scrape_lyrics - INFO - Genre found: pop
+2024-09-23 09:45:42,893 - scripts.scrape_lyrics - INFO - Album found: "The Party Scene"(2005)
+2024-09-23 09:45:42,903 - scripts.scrape_lyrics - WARNING - Writers not found
+2024-09-23 09:45:42,904 - scripts.scrape_lyrics - INFO - Lyrics: 
+
+I have seen millions of faces,
+ever-unchanging; content with redundancy,
+I'm not the same way;
+searching for change in directions that I want to go.
+
+Take a breath, let it out slow,
+Seasons change with the break of a lifetime,
+Remind me again why we thought twice about it,
+We've got ambition like you've got restraint so,
+
+Smile like you don't give a damn about the consequence,
+just say anything,
+We say summer holds such wonderful things.
+
+This must be more than just built up suspense,
+In the wake of an accident.
+Twist and turn in my sleep,
+wake me up when we get there;
+Destination success.
+
+Run like hell - We make noise for the sake of escaping.
+Run like hell - You only live once now take this to heart.
+Tell my family and friends I'll be ok.
+
+Smile like you don't give a damn about the consequence
+just say anything
+We say summer holds such wonderful things...
+
+2024-09-23 09:45:42,904 - scripts.scrape_lyrics - INFO - Genre: pop
+2024-09-23 09:45:42,904 - scripts.scrape_lyrics - INFO - Album: "The Party Scene"(2005)
+2024-09-23 09:45:42,904 - scripts.scrape_lyrics - INFO - Writers: Writers not found
+2024-09-23 09:45:42,906 - scripts.scrape_lyrics - INFO - Parsing artist All TIme Low
+2024-09-23 09:45:42,906 - scripts.scrape_lyrics - INFO - Paring song: Break Out! Break Out!
+2024-09-23 09:45:42,906 - scripts.scrape_lyrics - INFO - Generated URL: https://www.azlyrics.com/lyrics/alltimelow/breakoutbreakout.html
+2024-09-23 09:45:43,829 - scripts.scrape_lyrics - INFO - Successfully opened URL: https://www.azlyrics.com/lyrics/alltimelow/breakoutbreakout.html
+2024-09-23 09:45:43,832 - root - ERROR - An error occurred: list index out of range
