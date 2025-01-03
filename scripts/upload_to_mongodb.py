@@ -15,6 +15,7 @@ def random_delay(min_delay=3, max_delay=15):
 # TODO: When script ran, the artist name was added, but the Albums array was empty
 
 logger = logging.getLogger(__name__)
+
 # Connect to MongoDB Client
 client = MongoClient("mongodb://localhost:27017/")
 

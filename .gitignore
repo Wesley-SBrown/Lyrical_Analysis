@@ -1,0 +1,40 @@
+# Ignore Python cache files
+*.pyc
+__pycache__/
+
+# Ignore virtual environment
+venv/
+*.env
+
+# Ignore data files
+data/artists/*.json
+data/embeddings/
+data/processed/
+logs/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore outputs from scripts or testing
+*.log
+
+# Ignore any IDE-specific or editor-specific files
+.vscode/
+.idea/
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore Python packages
+*.egg-info/
+dist/
+build/
+
+# Ignore any temporary or backup files
+*.tmp
+*.bak
+*.swp
+
+# Include README.md
+!README.md
