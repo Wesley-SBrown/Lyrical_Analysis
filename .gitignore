@@ -31,6 +31,10 @@ Thumbs.db
 dist/
 build/
 
+# Ignore local files
+.artists
+.logs
+
 # Ignore any temporary or backup files
 *.tmp
 *.bak
