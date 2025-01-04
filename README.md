@@ -61,7 +61,7 @@ Lyrical_Analysis/
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Wesley-SBrown/Lyrical_Analysis.git
    cd Lyrical_Analysis
    ```
 
